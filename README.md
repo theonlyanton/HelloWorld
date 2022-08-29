@@ -35,7 +35,7 @@ GIF created with ...  ScreenToGif
 
 Describe any challenges encountered while building the app.
 
-Most of my challenges came in trying to understand the relationship between Git, GitHub, and the Android Studio Platform. I had to manually update some files due to me have an old SDK package. Git also expired the use of passwords as the primary way to have users authenticate themselves, having "tokens" as the replacement.
+Most of my challenges came in trying to understand the relationship between Git, GitHub, and the Android Studio platform. I had to manually update some files due to me have an old SDK package. Git also expired the use of passwords as the primary way to have users authenticate themselves, having "tokens" be the replacement instead.
 
 ## License
 
